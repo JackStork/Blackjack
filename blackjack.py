@@ -1,3 +1,4 @@
+# This is an early project, done without functions or multiple files, and isn't fully fleshed out
 # blackjack
 # notes:
 # need to flesh out ace mechanics
